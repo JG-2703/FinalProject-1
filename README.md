@@ -1,2 +1,3 @@
-# FinalProject-1
-Mean-Mern Project Realtor website
+Property Pulse
+
+Real Estate-Property Listing app using MERN Stack and tailwind css
